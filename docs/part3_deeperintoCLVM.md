@@ -178,4 +178,4 @@ $ brun '((c (q ((c (f (a)) (a)))) (c (q ((c (i (= (f (r (a))) (q 1)) (q (q 1)) (
 
 We now have a design pattern that allows us to create recursive programs that can be part of smart contracts, and more complicated ChiaLisp puzzles.
 
-In [part 4](./part4_higherlevelguide.md) we will cover the higher level language, and other tips for smart contract development.
+In [part 4](./part4_compiler_and_tips.md) we will cover the higher level language, and other tips for smart contract development.
